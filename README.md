@@ -1,2 +1,2 @@
-# python-introducao
-curso de python
+# Python Introdução
+Repositório de testes em python.
